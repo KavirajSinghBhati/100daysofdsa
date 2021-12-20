@@ -20,3 +20,14 @@ Update soon !!
 - [GFG](https://practice.geeksforgeeks.org)
 
 ---
+
+### 🚩Day 2
+
+**Today's Progress** : Continued with Binary Search problems and learned about Unbounded Binary Search, Square Root in O(log n), Searching in a rotated sorted array, finding Peak Element in an unsorted array, and Two Pointer Approach to solve Two Sum and Three Sum problems.
+
+**Link to work and resources** :
+
+- [Day2](https://github.com/KavirajSinghBhati/100daysofdsa/tree/main/day2)
+- [GFG](https://practice.geeksforgeeks.org)
+
+---
