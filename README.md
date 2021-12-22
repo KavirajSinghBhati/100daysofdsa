@@ -42,3 +42,14 @@ Update soon !!
 - [GFG](https://practice.geeksforgeeks.org)
 
 ---
+
+### 🚩Day 4
+
+**Today's Progress** : Solved a few easy level interview questions like Pythagorean triplets, Count pairs and triplets with given sum
+
+**Link to work and resources** :
+
+- [Day3](https://github.com/KavirajSinghBhati/100daysofdsa/tree/main/day4)
+- [GFG](https://practice.geeksforgeeks.org)
+
+---
