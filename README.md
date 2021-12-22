@@ -31,3 +31,14 @@ Update soon !!
 - [GFG](https://practice.geeksforgeeks.org)
 
 ---
+
+### 🚩Day 3
+
+**Today's Progress** : Solved Median of Two Sorted Arrays, which is LeetCode hard problem, tried different approaches to solve it and implemented the efficient approach involving Binary Search
+
+**Link to work and resources** :
+
+- [Day3](https://github.com/KavirajSinghBhati/100daysofdsa/tree/main/day3)
+- [GFG](https://practice.geeksforgeeks.org)
+
+---
