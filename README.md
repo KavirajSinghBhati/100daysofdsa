@@ -49,7 +49,7 @@ Update soon !!
 
 **Link to work and resources** :
 
-- [Day3](https://github.com/KavirajSinghBhati/100daysofdsa/tree/main/day4)
+- [Day4](https://github.com/KavirajSinghBhati/100daysofdsa/tree/main/day4)
 - [GFG](https://practice.geeksforgeeks.org)
 
 ---
@@ -60,7 +60,7 @@ Update soon !!
 
 **Link to work and resources** :
 
-- [Day3](https://github.com/KavirajSinghBhati/100daysofdsa/tree/main/day5)
+- [Day5](https://github.com/KavirajSinghBhati/100daysofdsa/tree/main/day5)
 - [GFG](https://practice.geeksforgeeks.org)
 
 ---
