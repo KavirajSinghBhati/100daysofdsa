@@ -53,3 +53,14 @@ Update soon !!
 - [GFG](https://practice.geeksforgeeks.org)
 
 ---
+
+### 🚩Day 5
+
+**Today's Progress** : Solved the Repeating Element interview question with multiple approaches and learned about the cycle detection algorithm used for Linked Lists and implemented it here.
+
+**Link to work and resources** :
+
+- [Day3](https://github.com/KavirajSinghBhati/100daysofdsa/tree/main/day5)
+- [GFG](https://practice.geeksforgeeks.org)
+
+---
