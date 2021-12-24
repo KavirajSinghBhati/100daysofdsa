@@ -64,3 +64,14 @@ Update soon !!
 - [GFG](https://practice.geeksforgeeks.org)
 
 ---
+
+### 🚩Day 6
+
+**Today's Progress** : Solved the Allocating Minimum No of Pages interview question asked in Google with multiple approaches and learned about the Binary Search solution.
+
+**Link to work and resources** :
+
+- [Day6](https://github.com/KavirajSinghBhati/100daysofdsa/tree/main/day6)
+- [GFG](https://practice.geeksforgeeks.org)
+
+---
