@@ -75,3 +75,14 @@ Update soon !!
 - [GFG](https://practice.geeksforgeeks.org)
 
 ---
+
+### 🚩Day 7
+
+**Today's Progress** : Started learning the sorting algorithms, the concept of stability and practiced some of them.
+
+**Link to work and resources** :
+
+- [Day7](https://github.com/KavirajSinghBhati/100daysofdsa/tree/main/day7)
+- [GFG](https://practice.geeksforgeeks.org)
+
+---
