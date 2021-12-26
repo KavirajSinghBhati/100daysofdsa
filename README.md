@@ -86,3 +86,14 @@ Update soon !!
 - [GFG](https://practice.geeksforgeeks.org)
 
 ---
+
+### 🚩Day 8
+
+**Today's Progress** : Practiced Insertion Sort algorithm, the concept of merging two sorted arrays, efficient merge algorithm and Merge Sort Algorithm
+
+**Link to work and resources** :
+
+- [Day8](https://github.com/KavirajSinghBhati/100daysofdsa/tree/main/day8)
+- [GFG](https://practice.geeksforgeeks.org)
+
+---
