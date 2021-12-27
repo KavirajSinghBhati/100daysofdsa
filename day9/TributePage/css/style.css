@@ -1,0 +1,176 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: "Merriweather", serif;
+  padding: 30px 30px 0 30px;
+}
+
+/* Utility classes */
+
+.mg-btm {
+  margin-bottom: 8em;
+}
+
+.header {
+  width: 100%;
+  height: 75vh;
+  background: url("../img/header.jpg") no-repeat center center/cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.header-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  z-index: 1;
+}
+
+.header::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.6);
+}
+
+.title {
+  font-size: 6rem;
+  font-weight: 700;
+  color: #ddd;
+  margin-bottom: 0.4em;
+}
+
+.sub-heading {
+  font-size: 2rem;
+  font-weight: 400;
+  color: #ddd;
+  letter-spacing: 2.5px;
+}
+
+.about {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.about-text {
+  font-size: 2rem;
+  line-height: 2;
+}
+
+.img-div {
+  width: 80%;
+  margin: 0 auto;
+  margin: 8em auto;
+}
+
+.img-div img {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+}
+
+#img-caption {
+  font-size: 2rem;
+  line-height: 2;
+  text-align: center;
+  margin-top: 2em;
+}
+
+.tribute-info {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.tribute-info ul {
+  width: 60%;
+  margin: 0 auto;
+  font-size: 1.5rem;
+}
+
+.tribute-info ul li:not(:last-child) {
+  margin-bottom: 1.2em;
+}
+
+.tribute-info h3 {
+  font-size: 3rem;
+  text-align: center;
+  margin-bottom: 2em;
+}
+
+blockquote {
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 8em;
+}
+
+blockquote q {
+  font-size: 1.8rem;
+}
+
+blockquote footer {
+  font-size: 1.3rem;
+}
+
+.footer {
+  background-color: black;
+  height: 50px;
+  color: #ddd;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer h3 {
+  font-size: 1.3rem;
+}
+
+@media (max-width: 499px) {
+  .title {
+    font-size: 3.5rem;
+  }
+  .sub-heading {
+    font-size: 1rem;
+    letter-spacing: none;
+  }
+
+  .about-text {
+    font-size: 1.2rem;
+    line-height: 2;
+  }
+
+  #img-caption {
+    font-size: 1.2rem;
+    line-height: 2;
+  }
+
+  .tribute-info h3 {
+    font-size: 1.6rem;
+  }
+  .tribute-info ul {
+    font-size: 1.2rem;
+  }
+  blockquote q {
+    font-size: 1.5rem;
+  }
+
+  blockquote footer {
+    font-size: 1.1rem;
+  }
+}
