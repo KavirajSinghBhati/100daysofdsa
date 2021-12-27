@@ -97,3 +97,14 @@ Update soon !!
 - [GFG](https://practice.geeksforgeeks.org)
 
 ---
+
+### 🚩Day 9
+
+**Today's Progress** : Taking a break from DSA and practiced my HTML and CSS skills to make a simple tribute page on Nikola Tesla. Tried fluid typography and practices to make responsive design.
+
+**Link to work and resources** :
+
+- [Day9](https://github.com/KavirajSinghBhati/100daysofdsa/tree/main/day9)
+- [freecodecamp](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page)
+
+---
