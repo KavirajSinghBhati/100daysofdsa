@@ -108,3 +108,14 @@ Update soon !!
 - [freecodecamp](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page)
 
 ---
+
+### 🚩Day 10
+
+**Today's Progress** : Coming back to DSA. Did the Merge Sort Analysis and how to calculate time complexity for Merge Sort. Solved two problems: Union and Intersection of two sorted arrays.
+
+**Link to work and resources** :
+
+- [Day10](https://github.com/KavirajSinghBhati/100daysofdsa/tree/main/day10)
+- [GFG](https://practice.geeksforgeeks.org)
+
+---
