@@ -106,6 +106,7 @@ Update soon !!
 
 - [Day9](https://github.com/KavirajSinghBhati/100daysofdsa/tree/main/day9)
 - [freecodecamp](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page)
+- [Link_to_the_demo](https://kavirajsinghbhati.github.io/TributePage/)
 
 ---
 
@@ -117,5 +118,18 @@ Update soon !!
 
 - [Day10](https://github.com/KavirajSinghBhati/100daysofdsa/tree/main/day10)
 - [GFG](https://practice.geeksforgeeks.org)
+
+---
+
+### 🚩Day 11
+
+**Today's Progress** : Solved Count Inversions problem, and Naive Partitioning algorithm.
+Also made a simple card using HTML and CSS to practice flexbox and grid and also to use Figma as a tool to make designs.
+
+**Link to work and resources** :
+
+- [Day11](https://github.com/KavirajSinghBhati/100daysofdsa/tree/main/day11)
+- [GFG](https://practice.geeksforgeeks.org)
+- [Link_to_the_demo](https://kavirajsinghbhati.github.io/SimpleCard/)
 
 ---
