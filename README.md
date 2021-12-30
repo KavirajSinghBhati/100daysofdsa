@@ -133,3 +133,14 @@ Also made a simple card using HTML and CSS to practice flexbox and grid and also
 - [Link_to_the_demo](https://kavirajsinghbhati.github.io/SimpleCard/)
 
 ---
+
+### 🚩Day 12
+
+**Today's Progress** : Made a responsive and simple landing page with a call-to-action form using CSS Grid and Flexbox.
+
+**Link to work and resources** :
+
+- [Day12](https://github.com/KavirajSinghBhati/100daysofdsa/tree/main/day12)
+- [Link_to_the_demo](https://kavirajsinghbhati.github.io/LandingPageFigma/)
+
+---
