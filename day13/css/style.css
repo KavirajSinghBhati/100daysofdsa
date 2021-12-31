@@ -1,0 +1,320 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Montserrat", sans-serif;
+}
+
+li {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+}
+
+.body-wrapper {
+  width: 100%;
+  max-width: 950px;
+  margin: 0 auto;
+}
+
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 4rem 0;
+}
+
+.nav-links ul {
+  display: flex;
+}
+
+.nav-links ul li {
+  margin: 10px 4px;
+  padding: 5px 8px;
+  font-size: 12px;
+}
+
+.title-logo {
+  font-weight: 700;
+}
+
+.content {
+  display: grid;
+  place-items: center;
+  text-align: center;
+}
+
+.header {
+  margin-bottom: 5.5rem;
+}
+
+.header-title {
+  font-weight: 700;
+  font-size: 0.93rem;
+  margin-bottom: 2rem;
+}
+
+.header-description {
+  font-weight: 700;
+  font-size: 1.5rem;
+  line-height: 1.3;
+  margin-bottom: 1.5rem;
+}
+
+.header-know_more {
+  font-size: 0.6875rem;
+  margin-bottom: 1.875rem;
+}
+
+.cta {
+  padding: 0.625rem 1.4375rem;
+  background-color: #000;
+  color: #fff;
+}
+
+.work-title {
+  font-size: 3rem;
+  font-weight: 700;
+  text-align: center;
+}
+
+.grid {
+  display: grid;
+  gap: 2em;
+  margin: 4em 0;
+}
+
+.card {
+  width: 100%;
+  height: 250px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  text-align: center;
+  position: relative;
+}
+
+.card::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+}
+
+.card-one {
+  background: url("../img/Landing\ Page.png") no-repeat center center/cover;
+}
+
+.card-two {
+  background: url("../img/Simple\ Card.png") no-repeat center center/cover;
+}
+
+.card-three {
+  background: url("../img/Nikola\ Tesla.png") no-repeat center center/cover;
+}
+
+.card-four {
+  background: url("../img/Pomodoro.png") no-repeat center center/cover;
+}
+
+.card-five {
+  background: url("../img/Sunnyside\ agency.png") no-repeat center center/cover;
+}
+
+.card-six {
+  background: url("../img/portfolio.png") no-repeat center center/cover;
+}
+
+.card .content {
+  color: #fff;
+  opacity: 0;
+  transition: all 0.5s ease-in-out;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.card .content:hover {
+  opacity: 1;
+  transform: translateY(-50px);
+}
+
+.card .content h1 {
+  font-size: 0.875rem;
+  margin-bottom: 20px;
+}
+
+.card .content p {
+  font-size: 0.625rem;
+  margin-bottom: 20px;
+}
+
+.btn {
+  padding: 10px 20px;
+  color: #fff;
+  background: #000;
+}
+
+.about {
+  margin: 6rem 0;
+}
+
+.about img {
+  width: 334px;
+  height: 501px;
+}
+
+.image-wrapper {
+  display: grid;
+  place-items: center;
+}
+
+.about .content h1 {
+  margin: 2rem 0;
+  font-size: 3rem;
+  text-align: left;
+}
+
+.about .content .descrip p {
+  margin: 1rem 0;
+  font-size: 1rem;
+  text-align: left;
+}
+
+.skills {
+  text-align: center;
+  margin: 6rem 0;
+}
+
+.skills h1 {
+  font-size: 3rem;
+  margin-bottom: 3rem;
+}
+
+.skill:not(:last-child) {
+  margin-bottom: 2.5rem;
+}
+
+.icon {
+  width: 48px;
+  height: auto;
+  margin-bottom: 2rem;
+}
+
+.contact {
+  text-align: center;
+  margin: 6rem 0;
+}
+
+.contact h1 {
+  font-size: 3rem;
+  margin-bottom: 2rem;
+}
+
+.contact p {
+  font-size: 0.875rem;
+  margin-bottom: 2rem;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 4rem;
+}
+
+.footer-links a {
+  margin: 0 0.5rem;
+  width: 50px;
+  height: auto;
+}
+
+@media (max-width: 425px) {
+  .contact p {
+    display: none;
+  }
+}
+
+@media (max-width: 950px) {
+  body {
+    width: 80%;
+    margin: 0 auto;
+  }
+}
+
+@media (min-width: 768px) {
+  .header-description {
+    font-size: 2.5rem;
+  }
+  .header-title {
+    font-size: 1rem;
+  }
+  .header-know_more {
+    font-size: 0.875rem;
+  }
+  .grid {
+    grid-template-columns: repeat(2, auto);
+  }
+  .about .content .descrip {
+    display: grid;
+    place-items: center;
+    text-align: center;
+  }
+  .skills-grid {
+    display: grid;
+    gap: 2em;
+    grid-template-columns: repeat(2, auto);
+  }
+
+  .contact p {
+    font-size: 1rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .header-description {
+    font-size: 4rem;
+  }
+  .header-title {
+    font-size: 1.25rem;
+  }
+  .header-know_more {
+    font-size: 1rem;
+  }
+  .grid {
+    grid-template-columns: repeat(3, auto);
+  }
+  .about {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .image-wrapper {
+    margin-left: 3rem;
+  }
+  .about .content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+  }
+
+  .skills-grid {
+    grid-template-columns: repeat(3, auto);
+  }
+  .contact p {
+    font-size: 1.25rem;
+  }
+}
