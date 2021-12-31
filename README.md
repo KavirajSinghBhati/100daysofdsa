@@ -144,3 +144,14 @@ Also made a simple card using HTML and CSS to practice flexbox and grid and also
 - [Link_to_the_demo](https://kavirajsinghbhati.github.io/LandingPageFigma/)
 
 ---
+
+### 🚩Day 13
+
+**Today's Progress** : Made a responsive and simple portfolio website for myself using the skills I gained with recent projects.
+
+**Link to work and resources** :
+
+- [Day13](https://github.com/KavirajSinghBhati/100daysofdsa/tree/main/day13)
+- [Link_to_the_demo](https://kavirajsinghbhati.github.io/portfolio-kaviraj/)
+
+---
