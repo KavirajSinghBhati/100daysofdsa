@@ -155,3 +155,14 @@ Also made a simple card using HTML and CSS to practice flexbox and grid and also
 - [Link_to_the_demo](https://kavirajsinghbhati.github.io/portfolio-kaviraj/)
 
 ---
+
+### 🚩Day 14
+
+**Today's Progress** : Made a responsive and complex web project for a Drone Event. Mockup page designed using Figma.
+
+**Link to work and resources** :
+
+- [Day14](https://github.com/KavirajSinghBhati/100daysofdsa/tree/main/day14)
+- [Link_to_the_demo](https://kavirajsinghbhati.github.io/DroneEventLandingPage/)
+
+---
