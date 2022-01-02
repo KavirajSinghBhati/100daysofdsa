@@ -166,3 +166,14 @@ Also made a simple card using HTML and CSS to practice flexbox and grid and also
 - [Link_to_the_demo](https://kavirajsinghbhati.github.io/DroneEventLandingPage/)
 
 ---
+
+### 🚩Day 15
+
+**Today's Progress** : Coming back to DSA, studied Quick Sort and Lomuto & Hoare Partition.
+
+**Link to work and resources** :
+
+- [Day15](https://github.com/KavirajSinghBhati/100daysofdsa/tree/main/day15)
+- [GFG](https://practice.geeksforgeeks.org)
+
+---
