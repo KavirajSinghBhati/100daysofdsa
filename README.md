@@ -16,7 +16,7 @@ Update soon !!
 
 **Link to work and resources** :
 
-- [Day1](https://github.com/KavirajSinghBhati/100daysofdsa/tree/main/day1)
+- [Day1](https://github.com/KavirajSinghBhati/100daysofdsa/tree/main/day%201)
 - [GFG](https://practice.geeksforgeeks.org)
 
 ---
@@ -27,7 +27,7 @@ Update soon !!
 
 **Link to work and resources** :
 
-- [Day2](https://github.com/KavirajSinghBhati/100daysofdsa/tree/main/day2)
+- [Day2](https://github.com/KavirajSinghBhati/100daysofdsa/tree/main/day%202)
 - [GFG](https://practice.geeksforgeeks.org)
 
 ---
@@ -38,7 +38,7 @@ Update soon !!
 
 **Link to work and resources** :
 
-- [Day3](https://github.com/KavirajSinghBhati/100daysofdsa/tree/main/day3)
+- [Day3](https://github.com/KavirajSinghBhati/100daysofdsa/tree/main/day%203)
 - [GFG](https://practice.geeksforgeeks.org)
 
 ---
@@ -49,7 +49,7 @@ Update soon !!
 
 **Link to work and resources** :
 
-- [Day4](https://github.com/KavirajSinghBhati/100daysofdsa/tree/main/day4)
+- [Day4](https://github.com/KavirajSinghBhati/100daysofdsa/tree/main/day%204)
 - [GFG](https://practice.geeksforgeeks.org)
 
 ---
@@ -60,7 +60,7 @@ Update soon !!
 
 **Link to work and resources** :
 
-- [Day5](https://github.com/KavirajSinghBhati/100daysofdsa/tree/main/day5)
+- [Day5](https://github.com/KavirajSinghBhati/100daysofdsa/tree/main/day%205)
 - [GFG](https://practice.geeksforgeeks.org)
 
 ---
@@ -71,7 +71,7 @@ Update soon !!
 
 **Link to work and resources** :
 
-- [Day6](https://github.com/KavirajSinghBhati/100daysofdsa/tree/main/day6)
+- [Day6](https://github.com/KavirajSinghBhati/100daysofdsa/tree/main/day%206)
 - [GFG](https://practice.geeksforgeeks.org)
 
 ---
@@ -82,7 +82,7 @@ Update soon !!
 
 **Link to work and resources** :
 
-- [Day7](https://github.com/KavirajSinghBhati/100daysofdsa/tree/main/day7)
+- [Day7](https://github.com/KavirajSinghBhati/100daysofdsa/tree/main/day%207)
 - [GFG](https://practice.geeksforgeeks.org)
 
 ---
@@ -93,7 +93,7 @@ Update soon !!
 
 **Link to work and resources** :
 
-- [Day8](https://github.com/KavirajSinghBhati/100daysofdsa/tree/main/day8)
+- [Day8](https://github.com/KavirajSinghBhati/100daysofdsa/tree/main/day%208)
 - [GFG](https://practice.geeksforgeeks.org)
 
 ---
@@ -104,7 +104,7 @@ Update soon !!
 
 **Link to work and resources** :
 
-- [Day9](https://github.com/KavirajSinghBhati/100daysofdsa/tree/main/day9)
+- [Day9](https://github.com/KavirajSinghBhati/100daysofdsa/tree/main/day%209)
 - [freecodecamp](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page)
 - [Link_to_the_demo](https://kavirajsinghbhati.github.io/TributePage/)
 
@@ -116,7 +116,7 @@ Update soon !!
 
 **Link to work and resources** :
 
-- [Day10](https://github.com/KavirajSinghBhati/100daysofdsa/tree/main/day10)
+- [Day10](https://github.com/KavirajSinghBhati/100daysofdsa/tree/main/day%2010)
 - [GFG](https://practice.geeksforgeeks.org)
 
 ---
@@ -128,7 +128,7 @@ Also made a simple card using HTML and CSS to practice flexbox and grid and also
 
 **Link to work and resources** :
 
-- [Day11](https://github.com/KavirajSinghBhati/100daysofdsa/tree/main/day11)
+- [Day11](https://github.com/KavirajSinghBhati/100daysofdsa/tree/main/day%2011)
 - [GFG](https://practice.geeksforgeeks.org)
 - [Link_to_the_demo](https://kavirajsinghbhati.github.io/SimpleCard/)
 
@@ -140,7 +140,7 @@ Also made a simple card using HTML and CSS to practice flexbox and grid and also
 
 **Link to work and resources** :
 
-- [Day12](https://github.com/KavirajSinghBhati/100daysofdsa/tree/main/day12)
+- [Day12](https://github.com/KavirajSinghBhati/100daysofdsa/tree/main/day%2012)
 - [Link_to_the_demo](https://kavirajsinghbhati.github.io/LandingPageFigma/)
 
 ---
@@ -151,7 +151,7 @@ Also made a simple card using HTML and CSS to practice flexbox and grid and also
 
 **Link to work and resources** :
 
-- [Day13](https://github.com/KavirajSinghBhati/100daysofdsa/tree/main/day13)
+- [Day13](https://github.com/KavirajSinghBhati/100daysofdsa/tree/main/day%2013)
 - [Link_to_the_demo](https://kavirajsinghbhati.github.io/portfolio-kaviraj/)
 
 ---
@@ -162,7 +162,7 @@ Also made a simple card using HTML and CSS to practice flexbox and grid and also
 
 **Link to work and resources** :
 
-- [Day14](https://github.com/KavirajSinghBhati/100daysofdsa/tree/main/day14)
+- [Day14](https://github.com/KavirajSinghBhati/100daysofdsa/tree/main/day%2014)
 - [Link_to_the_demo](https://kavirajsinghbhati.github.io/DroneEventLandingPage/)
 
 ---
@@ -173,7 +173,9 @@ Also made a simple card using HTML and CSS to practice flexbox and grid and also
 
 **Link to work and resources** :
 
-- [Day15](https://github.com/KavirajSinghBhati/100daysofdsa/tree/main/day15)
+- [Day15](https://github.com/KavirajSinghBhati/100daysofdsa/tree/main/day%2015)
 - [GFG](https://practice.geeksforgeeks.org)
 
 ---
+
+https://github.com/KavirajSinghBhati/100daysofdsa/tree/main/day8
