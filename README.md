@@ -178,4 +178,14 @@ Also made a simple card using HTML and CSS to practice flexbox and grid and also
 
 ---
 
-https://github.com/KavirajSinghBhati/100daysofdsa/tree/main/day8
+### 🚩Day 16
+
+**Today's Progress** : Started a FrontEnd mentor challenge and completed two sections.
+Full project will be completed tomorrow.
+
+**Link to work and resources** :
+
+- [Day16](https://github.com/KavirajSinghBhati/100daysofdsa/tree/main/day%2016)
+- [Frontend Mentor](https://www.frontendmentor.io/challenges/fylo-dark-theme-landing-page-5ca5f2d21e82137ec91a50fd)
+
+---
