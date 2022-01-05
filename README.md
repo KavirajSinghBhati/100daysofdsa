@@ -200,3 +200,15 @@ Full project will be completed tomorrow.
 - [GFG](https://practice.geeksforgeeks.org)
 
 ---
+
+### 🚩Day 18
+
+**Today's Progress** : Continued my previous FrontEnd mentor challenge and completed two sections.
+Full project will be completed tomorrow.
+
+**Link to work and resources** :
+
+- [Day18](https://github.com/KavirajSinghBhati/100daysofdsa/tree/main/day%2018)
+- [Frontend Mentor](https://www.frontendmentor.io/challenges/fylo-dark-theme-landing-page-5ca5f2d21e82137ec91a50fd)
+
+---
