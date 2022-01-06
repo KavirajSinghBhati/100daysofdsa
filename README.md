@@ -212,3 +212,15 @@ Full project will be completed tomorrow.
 - [Frontend Mentor](https://www.frontendmentor.io/challenges/fylo-dark-theme-landing-page-5ca5f2d21e82137ec91a50fd)
 
 ---
+
+### 🚩Day 19
+
+**Today's Progress** : Continued my previous FrontEnd mentor challenge and completed the footer section.
+
+**Link to work and resources** :
+
+- [Day19](https://github.com/KavirajSinghBhati/100daysofdsa/tree/main/day%2019)
+- [Frontend Mentor](https://www.frontendmentor.io/challenges/fylo-dark-theme-landing-page-5ca5f2d21e82137ec91a50fd)
+- [Link_to_the_demo](https://kavirajsinghbhati.github.io/fylolandingpage/)
+
+---
