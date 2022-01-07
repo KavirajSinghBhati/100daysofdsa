@@ -224,3 +224,14 @@ Full project will be completed tomorrow.
 - [Link_to_the_demo](https://kavirajsinghbhati.github.io/fylolandingpage/)
 
 ---
+
+### 🚩Day 20
+
+**Today's Progress** : Started learning SASS and how to automate the sass to css compiling tasks and browsersync using gulp.
+Also compiled my dsa notes till now.
+
+**Link to work and resources** :
+
+- [Day20](https://github.com/KavirajSinghBhati/100daysofdsa/tree/main/day%2020)
+
+---
