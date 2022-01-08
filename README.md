@@ -235,3 +235,15 @@ Also compiled my dsa notes till now.
 - [Day20](https://github.com/KavirajSinghBhati/100daysofdsa/tree/main/day%2020)
 
 ---
+
+### 🚩Day 21
+
+**Today's Progress** : Started a new frontend mentor project "Loopstudios Landing Page"
+
+**Link to work and resources** :
+
+- [Day21](https://github.com/KavirajSinghBhati/100daysofdsa/tree/main/day%2021)
+- [Frontend Mentor](https://www.frontendmentor.io/challenges/loopstudios-landing-page-N88J5Onjw)
+- [Link to the demo](https://loopstudios-kaviraj.netlify.app/)
+
+---
