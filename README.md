@@ -247,3 +247,15 @@ Also compiled my dsa notes till now.
 - [Link to the demo](https://loopstudios-kaviraj.netlify.app/)
 
 ---
+
+### 🚩Day 22
+
+**Today's Progress** : Continued working on "Loopstudios Landing Page", footer remaining
+
+**Link to work and resources** :
+
+- [Day22](https://github.com/KavirajSinghBhati/100daysofdsa/tree/main/day%2022)
+- [Frontend Mentor](https://www.frontendmentor.io/challenges/loopstudios-landing-page-N88J5Onjw)
+- [Link to the demo](https://loopstudios-kaviraj.netlify.app/)
+
+---
