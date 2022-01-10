@@ -259,3 +259,13 @@ Also compiled my dsa notes till now.
 - [Link to the demo](https://loopstudios-kaviraj.netlify.app/)
 
 ---
+
+### 🚩Day 23
+
+**Today's Progress** : Started InfyTQ preparation and made notes on some topics
+
+**Link to work and resources** :
+
+- [Day23](https://github.com/KavirajSinghBhati/100daysofdsa/tree/main/day%2023)
+
+---
