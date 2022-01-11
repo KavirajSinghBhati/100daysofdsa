@@ -1,0 +1,33 @@
+// Font variables
+
+$alataFont: "Alata", sans-serif;
+$josefinSansFont: "Josefin Sans", sans-serif;
+
+// Color variables
+
+$white: rgb(255, 255, 255);
+$black: rgb(0, 0, 0);
+$darkGray: rgb(140, 140, 140);
+$veryDarkGrey: rgb(105, 105, 105);
+
+// Screen breakpoints
+
+$breakpoints: (
+  small: 375px,
+  medium: 699px,
+  large: 999px,
+  xlarge: 1440px,
+);
+
+// Media queries
+
+@mixin breakpoint($size) {
+  $breakpoint-value: map-get(
+    $map: $breakpoints,
+    $key: $size,
+  );
+
+  @media screen and (min-width: $breakpoint-value) {
+    @content;
+  }
+}
