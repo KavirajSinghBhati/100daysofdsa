@@ -1,0 +1,47 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 93.75%;
+}
+
+body {
+  font-family: $alataFont;
+  font-size: calc(1rem + 0.75vw);
+}
+
+a {
+  color: $white;
+  text-decoration: none;
+}
+
+a,
+p {
+  font-size: 0.875rem;
+
+  @include breakpoint(large) {
+    font-size: 1rem;
+  }
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: $alataFont;
+  margin-top: 0px;
+}
+
+.container {
+  max-width: 1116px;
+  margin: 0 auto;
+}
+
+li {
+  list-style-type: none;
+}

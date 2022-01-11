@@ -1,0 +1,150 @@
+.header {
+  background: url("../../images/mobile/image-hero.jpg") no-repeat center
+    center/cover;
+  @include breakpoint(medium) {
+    background: url("../../images/desktop/image-hero.jpg") no-repeat center
+      center/cover;
+    padding-top: 60px;
+    padding-bottom: 143px;
+  }
+  height: 100vh;
+  padding: 48px 26px;
+
+  &__hero {
+    nav {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 10px;
+
+      ul {
+        position: fixed;
+        top: 0;
+        right: 0;
+        width: 100%;
+        background: #000;
+        height: 100vh;
+        z-index: 2;
+        padding: 2em;
+        transform: translateX(100%);
+        transition: transform 0.3s;
+
+        @include breakpoint(medium) {
+          width: unset;
+          position: unset;
+          transform: translateX(0);
+          background: none;
+          height: auto;
+          padding-top: 1em;
+        }
+
+        .nav-links {
+          @include breakpoint(medium) {
+            display: flex;
+          }
+
+          a {
+            position: relative;
+            @include breakpoint(medium) {
+              margin-right: 20px;
+            }
+            &::before {
+              content: "";
+              display: block;
+              position: absolute;
+              height: 2px;
+              width: 50%;
+              margin: 0 auto;
+              left: 0;
+              right: 0;
+              bottom: -10px;
+              background: #fff;
+              opacity: 0;
+              transition: opacity 300ms ease-in-out;
+            }
+            &:hover::before {
+              opacity: 1;
+            }
+          }
+          .last {
+            @include breakpoint(medium) {
+              margin-right: 0px;
+            }
+          }
+        }
+
+        .logo {
+          margin-bottom: 100px;
+          @include breakpoint(medium) {
+            display: none;
+          }
+        }
+
+        .nav-links {
+          a {
+            font-family: $josefinSansFont;
+            font-size: 36px;
+            text-transform: uppercase;
+
+            @include breakpoint(medium) {
+              font-family: $alataFont;
+              font-size: 0.875rem;
+              text-transform: initial;
+            }
+
+            li {
+              margin-bottom: 30px;
+              @include breakpoint(medium) {
+                margin-bottom: 0px;
+              }
+            }
+          }
+        }
+      }
+    }
+
+    &-content {
+      margin-top: 200px;
+      border: 2px solid #fff;
+      text-transform: uppercase;
+      padding: 32px 36px;
+
+      @include breakpoint(medium) {
+        max-width: 450px;
+        margin-top: 126px;
+      }
+
+      @include breakpoint(large) {
+        max-width: 650px;
+      }
+
+      h1 {
+        font-family: $josefinSansFont;
+        color: #fff;
+        font-weight: 300;
+
+        .down-text {
+          display: block;
+
+          @include breakpoint(large) {
+            display: initial;
+          }
+        }
+      }
+    }
+  }
+}
+
+.menu-btn,
+.exit-btn {
+  cursor: pointer;
+  @include breakpoint(medium) {
+    display: none;
+  }
+}
+
+.mobile-nav-head {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 15px;
+}

@@ -1,0 +1,214 @@
+.creations {
+  margin-bottom: 120px;
+  &__info {
+    @media (min-width: 699px) and (max-width: 1179px) {
+      margin-left: 30px;
+      margin-right: 30px;
+    }
+
+    &-header {
+      @include breakpoint(medium) {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 60px;
+      }
+
+      @include breakpoint(large) {
+        margin-bottom: 90px;
+      }
+
+      h2 {
+        font-size: 28px;
+        text-transform: uppercase;
+        font-family: $josefinSansFont;
+        font-weight: 300;
+        text-align: center;
+        margin-bottom: 65px;
+
+        @include breakpoint(medium) {
+          margin-bottom: 0;
+          text-align: initial;
+        }
+      }
+    }
+    &-grid {
+      display: grid;
+      gap: 25px;
+      place-items: center;
+
+      @include breakpoint(medium) {
+        grid-template-columns: repeat(2, 1fr);
+      }
+
+      @include breakpoint(large) {
+        grid-template-columns: repeat(4, 1fr);
+      }
+
+      .creation {
+        width: 87%;
+        height: 151px;
+        display: flex;
+        justify-content: flex-start;
+        align-items: flex-end;
+        color: #fff;
+        text-transform: uppercase;
+        font-family: $josefinSansFont;
+        padding-left: 27px;
+        padding-bottom: 32px;
+        font-size: 30px;
+        position: relative;
+        transition: all 0.3s ease-in-out;
+
+        &::before {
+          content: "";
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          background: rgba(0, 0, 0, 0.6);
+        }
+
+        &:hover {
+          color: #000;
+        }
+
+        &:hover::before {
+          cursor: pointer;
+          background: rgb(255, 255, 255);
+          opacity: 0.6;
+        }
+
+        @include breakpoint(medium) {
+          width: 100%;
+          height: 300px;
+        }
+
+        @include breakpoint(medium) {
+          width: 100%;
+          height: 449px;
+          padding-left: 18px;
+        }
+
+        .text {
+          z-index: 10;
+        }
+      }
+      .c1 {
+        background: url("../../images/mobile/image-deep-earth.jpg") no-repeat
+          center center/cover;
+
+        @include breakpoint(large) {
+          background: url("../../images/desktop/image-deep-earth.jpg") no-repeat
+            center center/cover;
+        }
+      }
+      .c2 {
+        background: url("../../images/mobile/image-night-arcade.jpg") no-repeat
+          center center/cover;
+
+        @include breakpoint(large) {
+          background: url("../../images/desktop/image-night-arcade.jpg")
+            no-repeat center center/cover;
+        }
+      }
+      .c3 {
+        background: url("../../images/mobile/image-soccer-team.jpg") no-repeat
+          center center/cover;
+
+        @include breakpoint(large) {
+          background: url("../../images/desktop/image-soccer-team.jpg")
+            no-repeat center center/cover;
+        }
+      }
+      .c4 {
+        background: url("../../images/mobile/image-grid.jpg") no-repeat center
+          center/cover;
+
+        @include breakpoint(large) {
+          background: url("../../images/desktop/image-grid.jpg") no-repeat
+            center center/cover;
+        }
+      }
+      .c5 {
+        background: url("../../images/mobile/image-from-above.jpg") no-repeat
+          center center/cover;
+
+        @include breakpoint(large) {
+          background: url("../../images/desktop/image-from-above.jpg") no-repeat
+            center center/cover;
+        }
+      }
+      .c6 {
+        background: url("../../images/mobile/image-pocket-borealis.jpg")
+          no-repeat center center/cover;
+
+        @include breakpoint(large) {
+          background: url("../../images/desktop/image-pocket-borealis.jpg")
+            no-repeat center center/cover;
+        }
+      }
+      .c7 {
+        background: url("../../images/mobile/image-curiosity.jpg") no-repeat
+          center center/cover;
+
+        @include breakpoint(large) {
+          background: url("../../images/desktop/image-curiosity.jpg") no-repeat
+            center center/cover;
+        }
+      }
+      .c8 {
+        background: url("../../images/mobile/image-fisheye.jpg") no-repeat
+          center center/cover;
+
+        @include breakpoint(large) {
+          background: url("../../images/desktop/image-fisheye.jpg") no-repeat
+            center center/cover;
+        }
+      }
+    }
+  }
+}
+
+.cta {
+  width: 200px;
+  height: 50px;
+  color: #000;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-family: $josefinSansFont;
+  padding: 19px 47px;
+  border: 0.5px solid #000;
+  font-size: 17px;
+  letter-spacing: 4px;
+  margin-top: 0;
+  transition: all 0.3s ease-in-out;
+  &:hover {
+    color: #fff;
+    background: #000;
+  }
+
+  @include breakpoint(medium) {
+    padding: 16px 50px;
+  }
+}
+
+.desktop-cta {
+  display: none;
+
+  @include breakpoint(medium) {
+    display: unset;
+  }
+}
+
+.mobile-cta-wrapper {
+  text-align: center;
+  margin-top: 44px;
+}
+
+.mobile-cta {
+  @include breakpoint(medium) {
+    display: none;
+  }
+}
