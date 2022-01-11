@@ -269,3 +269,14 @@ Also compiled my dsa notes till now.
 - [Day23](https://github.com/KavirajSinghBhati/100daysofdsa/tree/main/day%2023)
 
 ---
+
+### 🚩Day 24
+
+**Today's Progress** : Completed the LoopStudios website, and also learnt about Control Structures in Java for InfyTQ
+
+**Link to work and resources** :
+
+- [Day24](https://github.com/KavirajSinghBhati/100daysofdsa/tree/main/day%2024)
+- [Link to the demo](https://loopstudios-kaviraj.netlify.app/)
+
+---
