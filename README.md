@@ -280,3 +280,13 @@ Also compiled my dsa notes till now.
 - [Link to the demo](https://loopstudios-kaviraj.netlify.app/)
 
 ---
+
+### 🚩Day 25
+
+**Today's Progress** : Completed Control Structures in Java for InfyTQ
+
+**Link to work and resources** :
+
+- [Day25](https://github.com/KavirajSinghBhati/100daysofdsa/tree/main/day%2025)
+
+---
